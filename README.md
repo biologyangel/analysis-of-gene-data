@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a beginner-level exercise in applying core Python programming concepts to simulate a basic biological data analysis task. Using a hardcoded list of hypothetical gene lengths, the Python script iterates through the data, applies conditional checks, calculates summary statistics, and extracts data points that meet specific criteria. It demonstrates foundational data processing steps relevant to working with genomic datasets.
+This project is a beginner-level exercise in applying core Python programming concepts to simulate a basic biological data analysis task. Using a list of hypothetical gene lengths, the Python script iterates through the data, applies conditional checks, calculates summary statistics, and extracts data points that meet specific criteria. It demonstrates foundational data processing steps relevant to working with genomic datasets.
 
 ## Features and Analysis Performed
 
@@ -35,7 +35,7 @@ This project was developed step-by-step as part of a Python Fundamentals learnin
 
 -   Distinguishing between processing the whole data list vs. individual items in a loop.
 -   Correctly applying conditional logic (if) within a loop.
--   Managing variable scope and initialization (e.g., initializing sums/counts before a loop).
+-   Managing variable scope and initialization (counts before a loop).
 -   Using appropriate methods to collect conditional results (.append() to a list).
 -   Accessing both item value and index during iteration (enumerate()).
 -   Debugging code to achieve desired output formatting and logic.
